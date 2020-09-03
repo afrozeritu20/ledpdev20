@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Document</title>
+</head>
+<body>
+
+	<!-- not supported by all browser-->
+	<object data="assets/video/mukti.mp4" type="mp4" height="360" width="420"></object>
+	<!-- this tag could be used showinng pdf--> 
+
+</body>
+</html>

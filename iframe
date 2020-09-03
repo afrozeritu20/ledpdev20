@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>document</title>
+</head>
+<body>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/QFzG9vn7aB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<iframe src="https://www.google.com/maps/@23.7269567,90.4408049,15z"></iframe>
+
+
+</body>
+</html>
